@@ -1,0 +1,33 @@
+[{
+  "sifra": 1,
+  "naslov": "Knjiga 1",
+  "autor": "Pera Peric",
+  "isbn": "1312321312312",
+  "izdavac": "Vulkan",
+  "godina_izdanja": 2020,
+  "broj_strana": 200,
+  "cena": 650.00,
+  "kategorija": "roman"
+},
+{
+  "sifra": 2,
+  "naslov": "Knjiga 2",
+  "autor": "Marko Markovic",
+  "isbn": "132331545345343",
+  "izdavac": "Laguna",
+  "godina_izdanja": 2019,
+  "broj_strana": 220,
+  "cena": 850.00,
+  "kategorija": "roman"
+},
+{
+  "sifra": 3,
+  "naslov": "Knjiga 3",
+  "autor": "Pera Markovic",
+  "isbn": "13123213175432",
+  "izdavac": "Vulkan",
+  "godina_izdanja": 2010,
+  "broj_strana": 180,
+  "cena": 550.00,
+  "kategorija": "roman"
+}]
